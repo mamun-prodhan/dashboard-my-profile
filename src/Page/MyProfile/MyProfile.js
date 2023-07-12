@@ -56,9 +56,9 @@ const MyProfile = () => {
 
   return (
     <div className="" style={{ height: "1780px" }}>
-      <div className="flex mb-4">
+      <div className="flex items-center mb-4">
         <h1 className="lg:text-4xl text-2xl font-bold">My Profile</h1>
-        <p className="mx-3">
+        <p className="ml-12">
           <small>Member since 2023</small>
         </p>
       </div>
